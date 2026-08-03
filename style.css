@@ -26,3 +26,8 @@ body{margin:0;font-family:Arial,sans-serif;text-transform: none;background:#111;
     object-fit:cover;
     margin-bottom:15px;
 }
+
+body{
+    background:linear-gradient(to bottom,#111,#444);
+    color:white;
+}
