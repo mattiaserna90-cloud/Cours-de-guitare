@@ -1,1 +1,28 @@
 body{margin:0;font-family:Arial,sans-serif;text-transform: none;background:#111;color:#fff}.hero{text-align:center;padding:80px 20px;background:#222}.btn{background:#ff6b00;color:#fff;padding:12px 20px;text-decoration:none;border-radius:8px}.cards{display:flex;gap:20px;justify-content:center;padding:20px;flex-wrap:wrap}.card{background:#222;padding:20px;border-radius:8px}section{padding:40px;text-align:center}
+#temoignages{
+    padding:60px 20px;
+    text-align:center;
+}
+
+.temoignages{
+    display:flex;
+    justify-content:center;
+    flex-wrap:wrap;
+    gap:30px;
+}
+
+.temoignage{
+    width:280px;
+    background:white;
+    padding:20px;
+    border-radius:12px;
+    box-shadow:0 2px 10px rgba(0,0,0,0.1);
+}
+
+.temoignage img{
+    width:90px;
+    height:90px;
+    border-radius:50%;
+    object-fit:cover;
+    margin-bottom:15px;
+}
