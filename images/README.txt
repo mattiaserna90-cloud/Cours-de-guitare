@@ -1,1 +1,0 @@
-Placez ici vos photos (guitare.jpg, portrait, etc.)
