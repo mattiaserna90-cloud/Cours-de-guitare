@@ -1,1 +1,0 @@
-Placez vos images dans le dossier images.
