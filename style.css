@@ -27,3 +27,11 @@ body{margin:0;font-family:Arial,sans-serif;text-transform: none;background:linea
     object-fit:cover;
     margin-bottom:15px;
 }
+
+header{
+    background-image:url("images/guitare.jpg");
+    background-size:cover;
+    background-position:center;
+    color:white;
+    padding:120px 20px;
+}
