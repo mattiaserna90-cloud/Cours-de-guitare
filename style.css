@@ -124,34 +124,11 @@ ul li{
 
 .temoignage h3,
 .temoignage p{
-    color:inherit;
-}
-
-.temoignage img{
-
-    width:90px;
-    height:90px;
-
-    border-radius:50%;
-
-    object-fit:cover;
-
-    margin-bottom:15px;
-}
-
-.temoignage h3{
-
-    color:#1f3c88;
-}
-
-.temoignage p{
-
     color:#1f3c88;
     line-height:1.6;
 }
 
 .temoignage p:first-of-type{
-
     color:#f4b400;
     font-size:18px;
 }
