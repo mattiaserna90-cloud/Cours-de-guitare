@@ -114,17 +114,17 @@ ul li{
 }
 
 .temoignage{
-
     width:280px;
-
     background:white;
-    color:#222;
-
+    color:#1f3c88;
     padding:20px;
-
     border-radius:12px;
-
     box-shadow:0 4px 15px rgba(0,0,0,0.2);
+}
+
+.temoignage h3,
+.temoignage p{
+    color:inherit;
 }
 
 .temoignage img{
