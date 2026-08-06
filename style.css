@@ -118,7 +118,7 @@ ul li{
     width:280px;
 
     background:white;
-    color:#333;
+    color:#222;
 
     padding:20px;
 
@@ -141,12 +141,12 @@ ul li{
 
 .temoignage h3{
 
-    color:#d97706;
+    color:#1f3c88;
 }
 
 .temoignage p{
 
-    color:#333;
+    color:#1f3c88;
     line-height:1.6;
 }
 
