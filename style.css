@@ -6,8 +6,8 @@ body{
     margin:0;
     font-family:Arial, sans-serif;
     color:white;
-    text-transform:none;
 
+    background-color:#222;
     background-image:url("images/fond.jpg");
     background-size:cover;
     background-position:center;
