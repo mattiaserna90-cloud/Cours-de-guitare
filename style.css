@@ -115,17 +115,36 @@ ul li{
 
 .temoignage{
     width:280px;
+    min-height:350px;
     background:white;
     color:#1f3c88;
     padding:20px;
     border-radius:12px;
     box-shadow:0 4px 15px rgba(0,0,0,0.2);
+
+    display:flex;
+    flex-direction:column;
+    align-items:center;
 }
 
-.temoignage h3,
+.temoignage img{
+    width:90px;
+    height:90px;
+    border-radius:50%;
+    object-fit:cover;
+    object-position:center;
+    margin-bottom:15px;
+}
+
+.temoignage h3{
+    color:#1f3c88;
+    margin-bottom:10px;
+}
+
 .temoignage p{
     color:#1f3c88;
     line-height:1.6;
+    text-align:center;
 }
 
 .temoignage p:first-of-type{
